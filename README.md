@@ -6,7 +6,7 @@ The Riotee Sensor Shield adds a microphone, an accelerometer and a temperature a
 
 ## Sensors
 
-The has contains the following sensors:
+The has the following sensors:
  - Bosch BMA400 digital accelerometer
  - Sensirion SHTC3 temperature and humidity sensor
  - Vesper VM1010 analog output microphone
