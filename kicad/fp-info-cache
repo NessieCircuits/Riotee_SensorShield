@@ -1,4 +1,4 @@
-20890736890509746
+20892418023628338
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87254,6 +87254,13 @@ SEN_SHTC3
 0
 5
 5
+riotee
+SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm_NoMsk
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip
+net tie solder jumper bridged
+0
+2
+2
 riotee
 TE_1-1825058-9
 
