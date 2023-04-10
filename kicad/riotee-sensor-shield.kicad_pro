@@ -408,11 +408,11 @@
   "pcbnew": {
     "last_paths": {
       "gencad": "",
-      "idf": "",
+      "idf": "../../../../../tmp/riotee-sensor-shield.emn",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "../../../../../tmp/riotee-sensor-shield_kicad.step",
+      "vrml": "../../../../../tmp/riotee-sensor-shield_kicad.wrl"
     },
     "page_layout_descr_file": ""
   },
