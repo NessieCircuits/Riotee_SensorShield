@@ -2542,10 +2542,10 @@
   )
 
   (symbol (lib_id "Device:R") (at 207.01 128.27 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid ffe83cd5-1604-4df3-ad6d-7a77e373eaf3)
     (property "Reference" "R4" (id 0) (at 204.4669 128.27 90))
-    (property "Value" "1M" (id 1) (at 201.93 128.27 90))
+    (property "Value" "DNP" (id 1) (at 201.93 128.27 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 205.232 128.27 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2688,7 +2688,7 @@
       (reference "R3") (unit 1) (value "18k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/ffe83cd5-1604-4df3-ad6d-7a77e373eaf3"
-      (reference "R4") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R4") (unit 1) (value "DNP") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/2fbe4570-f900-465c-aaa4-173b9e1d5b19"
       (reference "R5") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0805_2012Metric")
