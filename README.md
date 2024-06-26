@@ -1,5 +1,7 @@
 # Riotee Sensor Shield Hardware Design Files
 
+[![Kibot ERC/DRC](https://github.com/NessieCircuits/Riotee_SensorShield/actions/workflows/test.yml/badge.svg)](https://github.com/NessieCircuits/Riotee_SensorShield/actions/workflows/test.yml)
+
 The Riotee Sensor Shield adds a microphone, an accelerometer and a temperature and humidty sensor to the [Riotee Board](https://github.com/NessieCircuits/Riotee_Board).
 
 Latest design files:

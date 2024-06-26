@@ -1,0 +1,20 @@
+kibot:
+  version: 1
+
+preflight:
+  check_zone_fills: true
+  erc:
+    filters:
+    - filter: 'ignore simulation errors'
+      error: 'simulation_model_issue'
+  drc:
+    filters:
+    - filter: 'ignore microphone hole'
+      error: 'hole_clearance'
+      regex: '\(226\.44 mm, 62\.23 mm\): Pad 8 \[GND\] of U3 on F\.Cu'
+    - filter: 'ignore solder bridge'
+      error: 'clearance'
+      regex: '\(193\.3 mm, 65\.54 mm\): Polygon on F\.Cu'
+    - filter: 'ignore solder bridge'
+      error: 'solder_mask_bridge'
+      regex: '\(193\.3 mm, 65\.64 mm\): Polygon on F\.Mask'
